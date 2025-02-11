@@ -1,0 +1,17 @@
+[
+    {
+        "reviewer": "John Doe",
+        "rating": 5,
+        "text": "Great service and friendly staff!"
+    },
+    {
+        "reviewer": "Jane Smith",
+        "rating": 4,
+        "text": "Clean office and professional dentists."
+    },
+    {
+        "reviewer": "Alice Johnson",
+        "rating": 3,
+        "text": "Average experience, but the staff was helpful."
+    }
+]

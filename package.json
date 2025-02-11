@@ -1,0 +1,13 @@
+{
+  "name": "dentists",
+  "version": "1.0.0",
+  "description": "A web app to view and rate dentists in Aktobe City",
+  "main": "index.html",
+  "scripts": {
+    "build": "mkdir -p dist && cp -r index.html css js data dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
